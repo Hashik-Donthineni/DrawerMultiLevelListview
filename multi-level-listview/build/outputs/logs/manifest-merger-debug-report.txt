@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+		ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+		ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:1-6:12
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:4:5-53
+	android:label
+		ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml:4:18-50
+uses-sdk
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+		ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+		ADDED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml
+		INJECTED from /home/hashik/StudioProjects/DrawerMultiLevelListview/multi-level-listview/src/main/AndroidManifest.xml

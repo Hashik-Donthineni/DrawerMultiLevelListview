@@ -1,0 +1,25 @@
+buildscript {
+    repositories {
+        jcenter()
+        maven {
+            url 'http://dev.open-rnd.net:30844/content/groups/public/'
+        }
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.1'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven {
+            url 'http://dev.open-rnd.net:30844/content/groups/public/'
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

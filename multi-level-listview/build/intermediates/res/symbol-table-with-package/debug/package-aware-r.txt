@@ -1,0 +1,8 @@
+pl.openrnd.multilevellistview
+attr alwaysExtended
+attr list
+attr nestType
+id multiple
+id single
+string app_name
+styleable MultiLevelListView alwaysExtended list nestType
